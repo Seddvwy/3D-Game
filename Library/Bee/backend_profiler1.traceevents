@@ -1,0 +1,475 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1652499561997465, "dur":1289, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499561998766, "dur":51, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1652499561998832, "dur":17, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1652499561998851, "dur":392, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1652499561999288, "dur":683, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499561999971, "dur":2, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499564580969, "dur":93, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499564581062, "dur":45, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499564581107, "dur":38, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499564581145, "dur":16, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499564581161, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499564581164, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499564581173, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499564581176, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499564581184, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499564581187, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499564581195, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499564581198, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499564581206, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499564581209, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499564581218, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499564581221, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499564581230, "dur":1, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499564581240, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499564581329, "dur":1465, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1652499561999615, "dur":366, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499561999983, "dur":4715, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499562004712, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1652499562004714, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499562004753, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1652499562004763, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499562005223, "dur":5477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1652499562010703, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1652499562010859, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499562010889, "dur":9558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1652499562020494, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1652499562020608, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499562020619, "dur":7042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1652499562027709, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1652499562027823, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499562027835, "dur":6209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1652499562034101, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499562034237, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499562034418, "dur":109364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499562143831, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1652499562143940, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499562144119, "dur":21425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1652499562165593, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499562165615, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499562165624, "dur":61719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499562227358, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499562227375, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499562227382, "dur":78167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499562305573, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499562305606, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499562305617, "dur":41708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499562347349, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499562347364, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499562347372, "dur":112913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499562460299, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499562460318, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499562460327, "dur":80096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499562540436, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499562540450, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499562540458, "dur":95114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499562635585, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499562635600, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499562635608, "dur":112680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499562748303, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499562748369, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499562748379, "dur":69450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499562817846, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499562817869, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499562817878, "dur":110124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499562928013, "dur":265614, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499563193631, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499563193638, "dur":120148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499563313824, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499563313863, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499563313883, "dur":248543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499563562440, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499563562456, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499563562464, "dur":663650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499564226130, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/clipper_library.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499564226146, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652499564226155, "dur":266557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/clipper_library.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652499564492730, "dur":88267, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652499561999659, "dur":331, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652499561999990, "dur":4715, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652499562004712, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1652499562004868, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652499562005828, "dur":137214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1652499562143101, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA.exe" }}
+,{ "pid":12345, "tid":2, "ts":1652499562143134, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652499562143143, "dur":33496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA.exe" }}
+,{ "pid":12345, "tid":2, "ts":1652499562176655, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499562176676, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652499562176709, "dur":82645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499562259372, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499562259393, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652499562259402, "dur":55245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499562314670, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499562314690, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652499562314701, "dur":55948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499562370665, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499562370689, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652499562370698, "dur":134416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499562505131, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499562505151, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652499562505160, "dur":46414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499562551591, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499562551603, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652499562551609, "dur":53772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499562605399, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499562605415, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652499562605425, "dur":35946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499562641387, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499562641402, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652499562641409, "dur":56149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499562697578, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499562697596, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652499562697606, "dur":83503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499562781132, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499562781150, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652499562781184, "dur":97000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499562878195, "dur":657987, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499563536188, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652499563536199, "dur":1006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499563537219, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499563537234, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652499563537242, "dur":701103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499564238356, "dur":202428, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499564440788, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652499564440796, "dur":679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652499564441487, "dur":139516, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499561999654, "dur":330, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499561999984, "dur":4738, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499562004722, "dur":229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1652499562004956, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499562006394, "dur":12208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1652499562018639, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1652499562018740, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499562019046, "dur":2348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1652499562021444, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1652499562021577, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499562021587, "dur":329833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1652499562351468, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499562351489, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499562351498, "dur":40459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499562391968, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499562392022, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499562392030, "dur":134905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499562526951, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499562527019, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499562527030, "dur":80307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499562607356, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499562607376, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499562607385, "dur":29250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499562636673, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499562636699, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499562636711, "dur":88461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499562725190, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499562725215, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499562725223, "dur":43085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499562768323, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499562768338, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499562768348, "dur":140827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499562909186, "dur":179001, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499563088193, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499563088205, "dur":225482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499563313725, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499563313775, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499563313798, "dur":195497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499563509309, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499563509326, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499563509357, "dur":635826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499564145199, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499564145215, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499564145225, "dur":215797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652499564361041, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1652499564361064, "dur":10, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499564361083, "dur":3293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1652499564364399, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1652499564364420, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499564364431, "dur":1130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1652499564365577, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1652499564365672, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499564365682, "dur":570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1652499564366265, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1652499564366281, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499564366289, "dur":66146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1652499564432450, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/resources.assets" }}
+,{ "pid":12345, "tid":3, "ts":1652499564432464, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499564432474, "dur":1081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/resources.assets" }}
+,{ "pid":12345, "tid":3, "ts":1652499564433567, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/level1" }}
+,{ "pid":12345, "tid":3, "ts":1652499564433581, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499564433586, "dur":1015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/level1" }}
+,{ "pid":12345, "tid":3, "ts":1652499564434617, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1652499564434697, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499564434724, "dur":742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1652499564435478, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1652499564435493, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652499564435499, "dur":1231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1652499564436740, "dur":144230, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499561999705, "dur":293, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499561999998, "dur":4713, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499562004722, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1652499562004872, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499562006066, "dur":12087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1652499562018210, "dur":220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1652499562018436, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499562018449, "dur":2159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1652499562020651, "dur":1270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1652499562021925, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499562021934, "dur":13121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1652499562035095, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1652499562035195, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499562035200, "dur":109056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1652499562144303, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562144335, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499562144467, "dur":82918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562227399, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562227417, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499562227425, "dur":78309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562305763, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562305788, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499562305796, "dur":58498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562364312, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562364328, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499562364356, "dur":124076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562488454, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562488522, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499562488530, "dur":57146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562545693, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562545713, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499562545722, "dur":65094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562610850, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562610873, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499562610883, "dur":30493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562641387, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562641398, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499562641405, "dur":72373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562713797, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562713815, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499562713824, "dur":47791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562761636, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562761657, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499562761666, "dur":56899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562818580, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562818602, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499562818610, "dur":48642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562867263, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562867282, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499562867288, "dur":66422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562933728, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499562933747, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499562933756, "dur":376085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499563309898, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499563309963, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499563309993, "dur":271705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499563581714, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499563581730, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499563581751, "dur":658616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652499564240382, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1652499564240393, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499564240404, "dur":574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1652499564240987, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":4, "ts":1652499564240998, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499564241002, "dur":1725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":4, "ts":1652499564242737, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1652499564242746, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499564242751, "dur":44668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1652499564287438, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":4, "ts":1652499564287458, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499564287469, "dur":78201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":4, "ts":1652499564365686, "dur":956, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1652499564366646, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499564366656, "dur":69755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1652499564436427, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1652499564436515, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652499564436522, "dur":437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1652499564436969, "dur":144040, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652499561999750, "dur":255, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652499562000005, "dur":4721, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652499562004726, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1652499562004874, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652499562005969, "dur":12757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1652499562018825, "dur":592, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1652499562019422, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652499562019450, "dur":6372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1652499562025868, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1652499562025980, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652499562025989, "dur":8387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1652499562034418, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499562034517, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652499562034536, "dur":114653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499562149240, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499562149265, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652499562149284, "dur":78053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499562227355, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499562227372, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652499562227382, "dur":82253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499562309655, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499562309678, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652499562309690, "dur":65164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499562374874, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499562374889, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652499562374897, "dur":262828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499562637737, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499562637751, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652499562637759, "dur":74904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499562712682, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499562712699, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652499562712707, "dur":42876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499562755601, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499562755619, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652499562755627, "dur":54082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499562809724, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499562809740, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652499562809749, "dur":61740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499562871503, "dur":54327, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499562925836, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652499562925845, "dur":632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499562926490, "dur":180096, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499563106591, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652499563106601, "dur":205549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499563312295, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499563312367, "dur":8, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652499563312396, "dur":306157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499563618565, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499563618575, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652499563618581, "dur":596636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499564215235, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499564215252, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652499564215262, "dur":311330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652499564526603, "dur":54370, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652499561999787, "dur":224, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652499562000011, "dur":4714, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652499562004725, "dur":250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1652499562004977, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652499562006561, "dur":339545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1652499562346148, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652499562346177, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652499562346184, "dur":129871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652499562476070, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652499562476088, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652499562476097, "dur":221477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652499562697590, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652499562697605, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652499562697612, "dur":132793, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652499562830419, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652499562830430, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652499562830438, "dur":478632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652499563309158, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652499563309250, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652499563309292, "dur":60267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652499563369573, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652499563369600, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652499563369606, "dur":139723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652499563509361, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652499563509376, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652499563509383, "dur":635792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652499564145194, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652499564145222, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652499564145231, "dur":287933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652499564433179, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/level1.resS" }}
+,{ "pid":12345, "tid":6, "ts":1652499564433199, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652499564433206, "dur":934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/level1.resS" }}
+,{ "pid":12345, "tid":6, "ts":1652499564434154, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/level0.resS" }}
+,{ "pid":12345, "tid":6, "ts":1652499564434178, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652499564434187, "dur":622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/level0.resS" }}
+,{ "pid":12345, "tid":6, "ts":1652499564434821, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1652499564434839, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652499564434847, "dur":1669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1652499564436528, "dur":144441, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652499561999818, "dur":202, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652499562000020, "dur":4700, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652499562004721, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1652499562004891, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652499562006202, "dur":12278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1652499562018526, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1652499562018654, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652499562018665, "dur":327411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1652499562346124, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499562346150, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652499562346160, "dur":79802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499562425978, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499562425995, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652499562426004, "dur":112866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499562538885, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499562538901, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652499562538910, "dur":96036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499562634962, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499562634983, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652499562634991, "dur":44041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499562679049, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499562679066, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652499562679077, "dur":69405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499562748498, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499562748512, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652499562748519, "dur":50147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499562798681, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499562798701, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652499562798714, "dur":34829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499562833554, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499562833565, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652499562833572, "dur":130519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499562964104, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499562964123, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652499562964131, "dur":576285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499563540437, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499563540457, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652499563540466, "dur":692096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499564232575, "dur":288622, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499564521203, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652499564521210, "dur":655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652499564521889, "dur":59100, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652499561999855, "dur":172, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652499562000027, "dur":4687, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652499562004715, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1652499562004887, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652499562006040, "dur":12445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1652499562018524, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1652499562018654, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652499562018661, "dur":16324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1652499562035027, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562035144, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652499562035150, "dur":171533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562206734, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562206763, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652499562206773, "dur":54017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562260801, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562260815, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652499562260821, "dur":126526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562387365, "dur":206994, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562594364, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652499562594377, "dur":1244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562595638, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562595658, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652499562595667, "dur":28155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562623838, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562623862, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652499562623870, "dur":32516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562656400, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562656420, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652499562656429, "dur":46625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562703071, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562703082, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652499562703088, "dur":48908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562752016, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562752035, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652499562752044, "dur":34911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562786968, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562786985, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652499562786991, "dur":37055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562824066, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562824085, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652499562824095, "dur":93792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562917903, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499562917922, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652499562917932, "dur":394740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499563312718, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499563312821, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652499563312843, "dur":256874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499563569730, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499563569741, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652499563569747, "dur":582960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499564152726, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499564152742, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652499564152750, "dur":428167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/FCAI/level 3/S 2/Graphics/unity/New folder/MAMAMIA_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652499564580938, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":8, "ts":1652499564580940, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652499564584173, "dur":1995, "ph":"X", "name": "ProfilerWriteOutput" }
+,
